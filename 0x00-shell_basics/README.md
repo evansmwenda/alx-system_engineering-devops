@@ -16,3 +16,4 @@
 100-lets move - moves all files beginning with uppercase alphabetical characters to tmp/u/
 101-clean_emacs - deletes all files ending with ~
 102-tree - created tree command
+103-commas - shows ls as commas
