@@ -14,3 +14,4 @@
 13-symbolic-link - creates symbolic lnk
 14-copy_html - copies all html files into the parent of working directory
 100-lets move - moves all files beginning with uppercase alphabetical characters to tmp/u/
+101-clean_emacs - deletes all files ending with ~
