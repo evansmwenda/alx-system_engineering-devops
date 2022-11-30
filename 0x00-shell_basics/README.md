@@ -12,3 +12,4 @@
 11-lists - lists files in current directory, parent directory and /boot directory
 12-file_type - prints file information for /tmp/iamafile
 13-symbolic-link - creates symbolic lnk
+14-copy_html - copies all html files into the parent of working directory
