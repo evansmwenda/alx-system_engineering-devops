@@ -12,3 +12,4 @@
 11-directories - add permissions recursively to subdirectories
 12-directory -permissions when creating folders
 13-change group permissions
+100 - changes files and folders ownership
