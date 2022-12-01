@@ -13,3 +13,4 @@
 12-directory -permissions when creating folders
 13-change group permissions
 100 - changes files and folders ownership
+101 - change ownership of symbolic link
