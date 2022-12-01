@@ -8,3 +8,4 @@
 7-everybody - add execute to owner,group,others
 8-James_Bond - set 007 permission to file
 9-John_Doe - sets 743 permission to file
+10-mirror-permissions - copy file permissions
