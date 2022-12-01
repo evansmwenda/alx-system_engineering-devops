@@ -14,3 +14,4 @@
 13-change group permissions
 100 - changes files and folders ownership
 101 - change ownership of symbolic link
+102-if only belongs to user
