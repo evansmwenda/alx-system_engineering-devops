@@ -10,3 +10,4 @@
 9-John_Doe - sets 743 permission to file
 10-mirror-permissions - copy file permissions
 11-directories - add permissions recursively to subdirectories
+12-directory -permissions when creating folders
