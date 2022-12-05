@@ -16,7 +16,7 @@
 15-countthatword - amont of times "bin" used in passwd
 16-whatsnext - find word and print 3 lines after it
 17-prints lines without "bin"
-18-
-19-
-20-
-21-
+18-prints lines beggining with letters only
+19-replaces A,c with z,e in string
+20-removes all letters c from input
+21-reverses input
