@@ -12,5 +12,5 @@
 11-directories - finds count of directories in cwd
 12-newest_files - lists 10 newest files
 13-
-14-
+14-findthatword - prints lines with "root"
 15-countthatword - amont of times "bin" used in passwd
