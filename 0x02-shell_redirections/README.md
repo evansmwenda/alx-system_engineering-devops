@@ -14,7 +14,7 @@
 13-unique with sort
 14-findthatword - prints lines with "root"
 15-countthatword - amont of times "bin" used in passwd
-16-
+16-whatsnext - find word and print 3 lines after it
 17-prints lines without "bin"
 18-
 19-
