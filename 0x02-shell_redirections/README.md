@@ -8,3 +8,4 @@
 7-file -  script that creates file
 8-cwd_state - print ls to file
 9-dplicate-last-line - duplicates last line of file
+10-no more js - deletes js files in cwd , subdirectories
