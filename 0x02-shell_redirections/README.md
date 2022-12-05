@@ -11,6 +11,12 @@
 10-no more js - deletes js files in cwd , subdirectories
 11-directories - finds count of directories in cwd
 12-newest_files - lists 10 newest files
-13-
+13-unique with sort
 14-findthatword - prints lines with "root"
 15-countthatword - amont of times "bin" used in passwd
+16-
+17-prints lines without "bin"
+18-
+19-
+20-
+21-
