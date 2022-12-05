@@ -11,3 +11,6 @@
 10-no more js - deletes js files in cwd , subdirectories
 11-directories - finds count of directories in cwd
 12-newest_files - lists 10 newest files
+13-
+14-
+15-countthatword - amont of times "bin" used in passwd
